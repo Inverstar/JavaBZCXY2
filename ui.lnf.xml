@@ -1,6 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
