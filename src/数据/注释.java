@@ -13,7 +13,7 @@ public class 注释
     }
 }
 // 单行注释
-/**
+/*
  * 注释类 第一个
  * @author verstar
  * @version 1.0
