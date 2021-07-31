@@ -4,8 +4,7 @@ package 数据;
 public class 变量
 {
     int studentN;
-    
-    public static void main(String[] args /*参数名称, 可变*/)
+    void main(String[] args /*参数名称, 可变*/)
     {
         double k = 0;
         int a = 1 ;
